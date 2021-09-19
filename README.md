@@ -1,7 +1,6 @@
 # BadBankCapstone
 Full-Stack Bad Bank Capstone Project
-
-BadBankCapstone
+---------------------------------------------------------------------------
 Full-Stack Banking Application Project for the MIT xPRO Development Bootcamp.
 
 <h3>Description</h3>
