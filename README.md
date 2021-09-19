@@ -4,7 +4,7 @@ Full-Stack Bad Bank Capstone Project
 BadBankCapstone
 Full-Stack Banking Application Project for the MIT xPRO Development Bootcamp.
 
-Description
+<h5>Description</h5>
 
 Bad bank application project uses a 3 tier application using react
 for the front end and node + express to create the server side back end.
@@ -12,7 +12,7 @@ this project is using mongoDB for the database. This application is packaged int
 a docker container.
 
 
-How to Install:
+<h5>How to Install</h5>
 Clone the project on to your machine, open the terminal and the following commands:
 
 1. npm init
@@ -23,7 +23,7 @@ Clone the project on to your machine, open the terminal and the following comman
 6. node index.js  
 
 
-Stack Used
+<h5>Stack Used</h5>
 
 1. HTML, CSS , JS
 2. Bootstrap v5+
